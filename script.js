@@ -45,4 +45,5 @@ switch(age)
   default:
     document.write("You are not eligible for study");
     break;
+    adsads
 }
